@@ -16,7 +16,7 @@ Get a specific agencies repos
 
 Get all federal repos
 
-`$gh->get_respos();`
+`$gh->get_repos();`
 
 Returns an array of repository objects, as returned from the GitHub API
 
