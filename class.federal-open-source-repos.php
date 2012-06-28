@@ -4,7 +4,7 @@
  * 
  * Usage: 
  * 
- * Substantiate the class
+ * Instantiate the class
  *   $gh = new Federal_Open_Source_Repos();
  *
  * Get a specific agencies repos
@@ -19,7 +19,7 @@
  * Licensing Information:
  *
  * This code constitutes a work of the United States Government and is 
- * not subject to domestic copyright protection under 17 USC ¤ 105. 
+ * not subject to domestic copyright protection under 17 USC ï¿½ 105. 
  *
  * The class uses code licensed under the terms of the GNU General 
  * Public License and therefore is licensed under GPL v2 or later.
