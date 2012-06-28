@@ -31,4 +31,4 @@ Contributing to the Project
 1. Commit, push
 1. Visit your repository's page to submit a pull request
 
-* Note: By contributing to this project, you do so under the terms of the GNU General Public License v2 or later. *
+*Note: By contributing to this project, you do so under the terms of the GNU General Public License v2 or later.*
