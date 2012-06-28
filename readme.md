@@ -21,3 +21,14 @@ Get all federal repos
 Returns an array of repository objects, as returned from the GitHub API
 
 See http://develop.github.com/p/repo.html for additional information
+
+Contributing to the Project
+---------------------------
+
+1. Fork the project using the "fork" button in the top-right corner
+1. Create a new branch
+1. Make changes
+1. Commit, push
+1. Visit your repository's page to submit a pull request
+
+* Note: By contributing to this project, you do so under the terms of the GNU General Public License v2 or later. *
