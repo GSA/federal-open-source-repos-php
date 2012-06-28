@@ -6,7 +6,7 @@ Federal Open Source Repositories PHP Class
 Usage
 -----
 
-Substantiate the class
+Instantiate the class
 
 `$gh = new Federal_Open_Source_Repos();`
 
