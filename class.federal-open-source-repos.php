@@ -11,7 +11,7 @@
  *   $gh->fcc
  * 
  * Get all federal repos
- *   $gh->get_respos();
+ *   $gh->get_repos();
  *
  * Returns an array of repository objects, as returned from the GitHub API
  * See http://develop.github.com/p/repo.html for additional information
